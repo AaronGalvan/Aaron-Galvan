@@ -1,0 +1,24 @@
+<style>
+ h1 {
+            color:rgb(255, 0, 0);
+        }
+
+.red {
+            color:rgb(255, 0, 0);
+        }
+.orange {
+            color:rgb(255, 128, 0);
+        }
+.pink {
+            color:rgb(255, 0, 255);
+        }
+.green {
+            color:rgb(79, 204, 37);
+        }
+.blue {
+            color:rgb(0, 0, 148);
+        }
+body {
+            background-color: rgb(46, 25, 63);
+   }
+</style>
